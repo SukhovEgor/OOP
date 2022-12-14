@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\ForGit\\ForGit.csproj",
-      "projectName": "ForGit",
-      "projectPath": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\ForGit\\ForGit.csproj",
+      "projectUniqueName": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\LR1\\LR1.csproj",
+      "projectName": "LR1",
+      "projectPath": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\LR1\\LR1.csproj",
       "packagesPath": "C:\\Users\\sukho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\ForGit\\obj\\",
+      "outputPath": "C:\\Users\\sukho\\Desktop\\учеба\\3 семестр\\ООП\\repos\\OOP\\LR1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

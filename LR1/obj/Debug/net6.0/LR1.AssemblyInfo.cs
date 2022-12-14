@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ForGit")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LR1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ForGit")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ForGit")]
+[assembly: System.Reflection.AssemblyProductAttribute("LR1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LR1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

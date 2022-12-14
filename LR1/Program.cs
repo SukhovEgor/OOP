@@ -1,4 +1,4 @@
-﻿namespace ForGit
+﻿namespace LR1
 {
     internal class Program
     {
