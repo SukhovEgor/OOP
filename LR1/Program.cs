@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Настраиваем гит");
+            int a = int.Parse(Console.ReadLine());
             
         }
     }
