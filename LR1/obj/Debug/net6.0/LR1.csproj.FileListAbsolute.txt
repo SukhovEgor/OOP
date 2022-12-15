@@ -1,0 +1,15 @@
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\bin\Debug\net6.0\LR1.exe
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\bin\Debug\net6.0\LR1.deps.json
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\bin\Debug\net6.0\LR1.dll
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\bin\Debug\net6.0\LR1.pdb
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.dll
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\refint\LR1.dll
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.pdb
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+C:\Users\sukho\Desktop\учеба\3 семестр\ООП\repos\OOP\LR1\obj\Debug\net6.0\ref\LR1.dll
